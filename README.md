@@ -2,8 +2,9 @@
 
 **Campus placement season, with the eligibility maths already done.**
 
-Live: _add the deployed client URL_ · API: _add the deployed API URL_
-Repository: _add the GitHub URL_
+**Live Demo:** https://roundready-web.onrender.com  
+**API:** https://roundready-api.onrender.com  
+**Repository:** https://github.com/SriLakshmi9860/roundready
 
 ---
 
